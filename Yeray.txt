@@ -2,15 +2,23 @@ Paula
 - 18
 - DAM
 - Estudiante
+- Proyecto de GitHub
+- Uso de GitHub
 Pol
 - 18
 - DAM
 - Estudiante
+- Proyecto de Wordpress
+- Uso de Wordpress
 Eric
 - 18
 - DAM
 - Estudiante
+- Proyecto de programación en Java
+- Uso de Java
 Alejandro
 - 18
 - DAM
 - Estudiante
+- Proyecto en Drupal
+- Uso de Drupal
